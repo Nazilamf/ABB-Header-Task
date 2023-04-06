@@ -1,0 +1,20 @@
+.left .header-left a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  margin-right: 20px;
+}
+.left .header-left-add button {
+  border: 1.5px solid #0056c1;
+  border-radius: 40px;
+  color: #0056c1 !important;
+  display: inline-block;
+  font-weight: 500;
+  padding: 6px 12px;
+  font-size: 14px;
+}
+
+.right span {
+  color: #666;
+  font-size: 14px;
+}/*# sourceMappingURL=style.css.map */
